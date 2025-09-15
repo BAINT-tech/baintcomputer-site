@@ -1,0 +1,76 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Baintcomputer OS Waitlist</title>
+  <style>
+    body {
+      margin: 0;
+      font-family: Arial, sans-serif;
+      background: linear-gradient(135deg, #0f172a, #1e293b);
+      color: #f8fafc;
+      text-align: center;
+    }
+    header {
+      padding: 80px 20px 40px;
+    }
+    h1 {
+      font-size: 2.5rem;
+      margin-bottom: 20px;
+      background: linear-gradient(90deg, #38bdf8, #818cf8);
+      -webkit-background-clip: text;
+      -webkit-text-fill-color: transparent;
+    }
+    p {
+      font-size: 1.2rem;
+      max-width: 700px;
+      margin: 0 auto 20px;
+      line-height: 1.6;
+    }
+    footer {
+      margin-top: 60px;
+      padding: 20px;
+      font-size: 0.9rem;
+      color: #94a3b8;
+    }
+    .mockup {
+      margin: 40px 0;
+    }
+    .mockup img {
+      max-width: 100%;
+      border-radius: 16px;
+      box-shadow: 0 8px 20px rgba(0, 0, 0, 0.4);
+    }
+    iframe {
+      width: 100%;
+      max-width: 640px;
+      height: 800px;
+      border: none;
+      margin: 40px auto;
+      display: block;
+      border-radius: 12px;
+      box-shadow: 0 8px 20px rgba(0, 0, 0, 0.4);
+    }
+  </style>
+</head>
+<body>
+  <header>
+    <h1>Baintcomputer OS</h1>
+    <p>An AI-powered operating system built for people who want devices that think.<br>
+    Privacy-first. Smarter. Open to developers.</p>
+  </header>
+
+  <!-- Google Form Embed -->
+  <iframe src="https://docs.google.com/forms/d/e/1FAIpQLSdQQISGj_jVOm57TOjAmq0RVe4VtARJ_Pwh7G8Ey92jg9sdvA/viewform?embedded=true" frameborder="0" marginheight="0" marginwidth="0">Loading…</iframe>
+
+  <section class="mockup">
+    <img src="your-mockup-image.png" alt="Baintcomputer OS mockup">
+    <p><small>*Concept preview of the future Baintcomputer experience*</small></p>
+  </section>
+
+  <footer>
+    Built in Public • Early Stage Project • © 2025 Baintcomputer OS
+  </footer>
+</body>
+</html>
